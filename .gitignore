@@ -1,0 +1,71 @@
+# ==============================
+# Gradle
+# ==============================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ==============================
+# Eclipse
+# ==============================
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.class
+.settings/
+bin/
+*.launch
+*.classpath
+*.project
+
+# ==============================
+# IntelliJ IDEA
+# ==============================
+.idea/
+*.iml
+*.iws
+out/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+*.stacktrace
+
+# ==============================
+# Spring Boot specific
+# ==============================
+/target/
+/build/
+*.jar
+*.war
+*.ear
+spring.log
+
+# ==============================
+# Environment files
+# ==============================
+.env
+*.properties
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+
+# ==============================
+# Temporary files
+# ==============================
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
