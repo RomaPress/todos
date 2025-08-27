@@ -55,11 +55,7 @@ spring.log
 # Environment files
 # ==============================
 .env
-*.properties
-application.properties
-application.yml
-application-*.properties
-application-*.yml
+
 
 # ==============================
 # Temporary files
